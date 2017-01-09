@@ -1,0 +1,15 @@
+<resources>
+    <string name="inwatch_update_action_pause">Pause</string>
+    <string name="inwatch_update_action_continue">Continue</string>
+    <string name="inwatch_update_action_cancel">Cancel</string>
+    <string name="inwatch_update_updatetitle">New version found</string>
+    <string name="inwatch_update_newversion">Latest version:</string>
+    <string name="inwatch_update_updatecontent">Update Content</string>
+    <string name="inwatch_update_targetsize">Target size: </string>
+    <string name="inwatch_update_gprscondition">(Warning: Not WIFI Condition)</string>
+    <string name="inwatch_update_updatenow">Update now</string>
+    <string name="inwatch_update_installnow">Install now</string>
+    <string name="inwatch_update_notnow">Not now</string>
+    <string name="inwatch_update_ignore">Ingore this</string>
+    <string name="inwatch_update_dialog_installapk">The lastest version has been downloaded, install now ?</string>
+</resources>
